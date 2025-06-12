@@ -5,6 +5,6 @@ This repository contains a collection of Power BI projects, each in its own fold
 
 ## 🔗 Projects
 
-- [Project-1: HR Analytics Dashboard](./Project-1)
-- [Project-2: Sales Dashboard](./Project-2)
-- [Project-3: Finance Dashboard](./Project-3)
+- [Project-1: UPI dashboard](./Project-1)
+- [Project-2: Insurance dashboard](./Project-2)
+- [Project-3: HR-ANALYTICS dashboard](./Project-3)
